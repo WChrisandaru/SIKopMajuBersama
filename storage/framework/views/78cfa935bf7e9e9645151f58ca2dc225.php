@@ -1,0 +1,3 @@
+<?php $__env->startSection('body'); ?><main><section class="panel"><span class="badge amber">Transaksi belum disimpan</span><h1>Periksa kembali transaksi</h1><p>Tagihan harus final, belum lunas, dan nominal pembayaran harus sama dengan total tagihan. Muat ulang daftar untuk melihat status terbaru.</p><a href="/pembayaran">← Kembali ke pembayaran</a></section></main><?php $__env->stopSection(); ?>
+
+<?php echo $__env->make('layout', array_diff_key(get_defined_vars(), ['__data' => 1, '__path' => 1]))->render(); ?><?php /**PATH /Users/wchrisandaru/Documents/GitHub/SIKopMajuBersama/resources/views/errors/422.blade.php ENDPATH**/ ?>

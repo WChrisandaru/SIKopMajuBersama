@@ -1,0 +1,3 @@
+<?php $__env->startSection('body'); ?><main><section class="panel"><h1>Akses tidak diizinkan</h1><p>Peran Anda tidak memiliki izin untuk melakukan perubahan ini.</p><a href="/dashboard">← Kembali ke dashboard</a></section></main><?php $__env->stopSection(); ?>
+
+<?php echo $__env->make('layout', array_diff_key(get_defined_vars(), ['__data' => 1, '__path' => 1]))->render(); ?><?php /**PATH /Users/wchrisandaru/Documents/GitHub/SIKopMajuBersama/resources/views/errors/403.blade.php ENDPATH**/ ?>
